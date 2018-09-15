@@ -1,6 +1,3 @@
-jiluku
-jinukku
-
 #include<iostream>
 int main()
 {
